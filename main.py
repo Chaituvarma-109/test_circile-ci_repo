@@ -11,3 +11,11 @@ def sub(num1, num2):
 
 def mul(num1, num2):
     return num1 * num2
+
+
+def say():
+    print("say hello")
+
+
+if __name__ == "__main__":
+    say()
